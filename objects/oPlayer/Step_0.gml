@@ -15,3 +15,6 @@ if (place_meeting(x, y + yspd, oWall)) {
 
 x += xspd;
 y += yspd;
+
+
+
