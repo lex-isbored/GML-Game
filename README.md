@@ -5,7 +5,11 @@ I don't have the whole story planned, so meanwhile I'm starting with the basic s
 
 ## Controls
 - Move using the arrows 
-- fFull screen using F4. 
+- Full screen using F4. 
+
+## Versions
+-	V1.0 Created the game, added Player with a temporal Sprite, added movement, added walls which Player can collission with
+-	V1.1 Changed Player's screen, now can toggle full screen, changed the resolution and added a viewport
 
 I'll add more functions in the future
 
